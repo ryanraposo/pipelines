@@ -1,9 +1,9 @@
 {
     "name": "vscode-pipelines-theme",
     "publisher": "ryanraposo",
-    "displayName": "vscode-pipelines-theme",
-    "description": "Real fast.",
-    "version": "0.0.1",
+    "displayName": "Pipelines",
+    "description": "Real fast!",
+    "version": "0.0.2",
     "repository": {"url": "https://github.com/ryanraposo/vscode-pipelines-theme"},
     "icon": "img/pipelines-icon-128.png",
     "engines": {

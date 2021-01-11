@@ -1,3 +1,3 @@
-Pipelines. *Real* fast!
+Pipelines. Real fast!
 
 ![](img/pipelines-screenshot.png)
