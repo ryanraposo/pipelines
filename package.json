@@ -1,5 +1,6 @@
 {
     "name": "vscode-pipelines-theme",
+    "publisher": "ryanraposo",
     "displayName": "vscode-pipelines-theme",
     "description": "Real fast.",
     "version": "0.0.1",
