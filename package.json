@@ -4,7 +4,7 @@
     "displayName": "Pipelines",
     "description": "Real fast!",
     "version": "0.0.2",
-    "repository": {"url": "https://github.com/ryanraposo/vscode-pipelines-theme"},
+    "repository": {"url": "https://github.com/ryanraposo/pipelines"},
     "icon": "img/pipelines-icon-128.png",
     "engines": {
         "vscode": "^1.52.0"
